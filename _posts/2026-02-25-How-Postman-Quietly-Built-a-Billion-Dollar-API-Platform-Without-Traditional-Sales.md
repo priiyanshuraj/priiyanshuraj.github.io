@@ -19,9 +19,10 @@ Here's the story every growth person should study because Poastman didn't just s
 
 
 
-
 ## The origin of Postman is humble but very instructive. 
 
 Founder Abhinav Asthana built the first version of Postman because API testing was tedious, fragmented and very error prone. As a developer he exprienced those pain firsthand and began tinkering with what became Postman. It's first version which was a Chrome extension that simplified HTTP requests for API testing and within just few months developers had started using it inside their browser.
 
 This matters for GTM because Postman startedd with utility not marketing. No outbound, No sales team, No sales team. No fancy homepage, it was just a tool that salved a real, repeated and very common problem.
+
+## this will be continued
