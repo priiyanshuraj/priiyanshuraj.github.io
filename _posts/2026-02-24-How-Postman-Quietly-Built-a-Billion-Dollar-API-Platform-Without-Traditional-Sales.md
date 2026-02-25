@@ -1,5 +1,5 @@
 ---
-tiitle: "How Postman Quietly Built a Billion-Dollar API Platform Without Traditional Sales"
+title: "How Postman Quietly Built a Billion-Dollar API Platform Without Traditional Sales"
 date: 2026-02-25 00:00:00 +0800
 categories: [GTM Breakdown]
 tags: [Postman GTM Breakdown]
