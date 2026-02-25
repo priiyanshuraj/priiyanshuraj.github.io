@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Qaint # the main title
+title: Qᴀɪɴᴛ # the main title
 
-tagline: Where Tech Meets Revenue # it will display as the subtitle
+tagline: 𝘞𝘩𝘦𝘳𝘦 𝘛𝘦𝘤𝘩 𝘔𝘦𝘦𝘵𝘴 𝘙𝘦𝘷𝘦𝘯𝘶𝘦 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Exploring SaaS sales, SDR playbooks, outbound prospecting, ICP refinement, and AI-driven growth strategies for modern B2B startups.
@@ -96,7 +96,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
