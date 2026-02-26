@@ -234,3 +234,4 @@ jekyll-archives:
     category: /categories/:name/
 
 future: true
+#bundle exec jekyll serve
