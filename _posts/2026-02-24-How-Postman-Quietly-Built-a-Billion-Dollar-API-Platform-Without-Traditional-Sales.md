@@ -46,7 +46,7 @@ If you explore developer communities like Reddit's r/postman_api, you'll see a m
 
 Postman didn't built a sales team until it's product adoption momentum was undeniable, When enterprises began standardizing on the tool, Postman added structured commerce. ***not to drive usage, but to support the existing demand.*** According to GTM analyses, Postman delayedd traditional sales until enterprise demand grew organically from the product penetration and that strategy helped ensure that sales complements the product rather than overrides it. This teaches a key lession for  growth that ***sales should amplify, not replace the prodcut led distribution.*** Many companies hire sales early and inadvertntly slow down the adoption by restricting access and adding friction.
 
-### The Real GTM Lessong for Growth Teams
+## The Real GTM Lessong for Growth Teams
 
 Postman's playbook is deceptively simple yet very powerful if you internalize it
 
@@ -72,6 +72,7 @@ Here's what the first 30 days would look like:
 
 The goal isn't pushy sales but rather product-led value.
 
+##
 #### Why Postman Is More Than a Tool
 
 Today, Postman claims tens of millions of users and hundreds of thousands of companies, including a large percentage of Fortune 500 firms, all of this without starting with a typical enterprise sales engine. That’s because they followed a repeatable GTM sequence - ***Identify deep developer pain -> meet developers where they work -> bake sharing into workflows -> layer monetization only after dependency forms -> let sales amplify growth.***
