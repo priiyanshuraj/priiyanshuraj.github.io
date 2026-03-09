@@ -5,7 +5,7 @@ date: 2026-03-08 00:00:00 +0800
 categories: [Western Philosophy]
 tags: [Philosophy]
 ---
-# Detailed Notes: Greek Philosophy – Ionians, Pythagoras, Parmenides, Heraclitus & Democritus
+<!-- # Detailed Notes: Greek Philosophy – Ionians, Pythagoras, Parmenides, Heraclitus & Democritus
 
 ---
 
@@ -368,4 +368,4 @@ Aristotle called them:
 - Abstract vs Concrete  
 - One vs Many  
 
-6. Replacement of **mythological explanations** with **rational inquiry**.
+6. Replacement of **mythological explanations** with **rational inquiry**. -->
