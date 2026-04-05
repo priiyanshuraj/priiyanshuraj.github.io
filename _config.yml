@@ -16,19 +16,10 @@ timezone: Asia/Kolkata
 
 title: Priyanshu Raj # the main title
 
-tagline: GTM and Growth # it will display as the subtitle
+tagline: Essays & Views # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Exploring SaaS sales, SDR playbooks, outbound prospecting, ICP refinement, and AI-driven growth strategies for modern B2B startups.
-  Notes on SaaS revenue, SDR execution, cold email strategy, and AI-driven growth—written by a technical founder-minded CSE student entering business development.
-  SDR strategy, business development frameworks, SaaS outbound systems, ICP targeting, and AI-powered pipeline generation for B2B startups.
-  Exploring SaaS sales, SDR playbooks, outbound prospecting, ICP refinement, and AI-driven growth strategies for modern B2B startups.
-  A revenue-focused blog on SaaS growth, SDR strategy, outbound execution, and AI-driven pipeline systems—built by a final-year CSE student exploring business development and sales roles.
-  Insights on Indian SaaS growth, outbound strategy, ICP refinement, and SDR execution. Exploring how AI and positioning turn products into predictable pipeline.
-  Revenue-focused breakdowns on Indian SaaS, cold email strategy, ICP clarity, and pipeline systems—written from a technical, AI-driven perspective.
-  Strategic analysis of SaaS positioning, prospecting frameworks, and scalable outbound systems for Indian and global B2B startups.
-  Where AI meets SaaS revenue—deep dives on SDR playbooks, outbound execution, and pipeline strategy for modern B2B startups.
-  SaaS growth, SDR strategy, and AI-driven pipeline systems for modern B2B startups.
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://priiyanshuraj.github.io"
@@ -37,20 +28,20 @@ github:
   username: priiyanshuraj # change to your GitHub username
 
 twitter:
-  username: priyanshuwtf # change to your Twitter username
+  username: wtvraj # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Priyanshu Raj
-  email: priyanshu@qaint.in # change to your email address
+  email: hi@priyanshuraj.online # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/priyanshuwtf # change to your Twitter homepage
     - https://github.com/priiyanshuraj # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/priyanshuraj1/
+    # - https://www.linkedin.com/in/priyanshuraj1https://github.com/priiyanshuraj/
 
 # Site Verification Settings
 webmaster_verifications:
