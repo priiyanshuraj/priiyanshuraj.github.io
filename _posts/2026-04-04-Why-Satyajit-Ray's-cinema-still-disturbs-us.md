@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Why Satyajit Ray's Cinema Still Disturbs Us"
+title: "Not Poverty Porn - Why Satyajit Ray's Cinema Still Disturbs Us"
 date: 2026-04-04 00:00:00 +0800
 categories: [Cinema]
 tags: [Poverty Porn]
 ---
+In today's media driven world poverty is not just a fact of life but also something frequenttly being shown through various films, news and social media. This has led us to the term "poverty porn" which is used to criticize content that presents suffering in an exploitative way for attention or profit. While such exploitation does exist, not every portrayal of poverty should be dismissed in this way. Sometimes people label content as “poverty porn” simply because it makes them feel uncomfortable. Actual honest depictions of hardship can challenge people to reflect on inequality and their own privilege and Instead of engaging with these realities, it's easier for people to criticize the representation itself and also people have that tendency of expecting the element of hope or success in such stories while the real life poverty does not offer any such resolutions. Therefore the term “poverty porn” should be used carefully, Otherwise it risks silencing meaningful representations and avoiding deeper discussions about the causes of poverty itself.
+
+For the bourgeois spectator poverty must remain at a safe aesthtic distance, it must be softened or hidden or else turned into a brief moment of pity that can be felt and forgotten. To face it as it is truly would disturb the fragile ideas that make their comfort seem natural and deserved and when such images come too close, the very first reaction is often not reflection but retreat then the term "poverty porn" pops up not as moral critique but rather as a shield, it's an easy way out as its easier that way to push reality back into the distance once it becomes intolerable.
