@@ -6,7 +6,7 @@ categories: [Dashboard]
 tags: [SaaS, Dashboard, BI, GTM, Sales, Ops]
 ---
 
-While deciding whether a new webpage will truly improve performance, intuition isn’t enough — you’ll need statistics. In order to address this very important question “Is the new page better?”, we will analyse a real A/B test using simulations and hypothesis testing in this blog. [Visit here for detailed explanation](https://priyanshuraj.online/dashboard/Analyze_AB_test.html "Click here")
+While deciding whether a new webpage will truly improve performance, intuition isn’t enough you’ll need statistics. In order to address this very important question “Is the new page better?”, we will analyse a real A/B test using simulations and hypothesis testing in this blog. [Visit here for detailed explanation](https://priyanshuraj.online/dashboard/Analyze_AB_test.html "Click here")
 
 A/B tests are very commonly performed by data analysts and data scientists. Well-established products typically have a large consumer base and reliable sales and usage metrics, and are highly valued by their company. As a result, it’s too risky to implement changes directly to the product without proper evaluation of the consequences.
 
